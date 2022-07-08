@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou Adevan Neves Santos</h1>
-<h3 align="center">Estudante de Desenvolvimento Mobile Nativo para Android, aluno no Academia STEM 2022 e Campus Expert na Digital Innovation One</h3>
+<h3 align="center">Estudante de Desenvolvimento Mobile Nativo para Android, aluno no projeto Callidus Software e Campus Expert na Digital Innovation One</h3>
 
-- 🔭 No momento estou trabalhando em [Academia STEM 2022](https://stem.uea.edu.br/)
+- 🔭 No momento estou trabalhando em Callidus Software
 
-- 🌱 Atualmente estou aprendendo **Desenvolvimento Android Nativo, Design Thinking em projetos de interface de aplicativos para autistas**
+- 🌱 Atualmente estou aprendendo **Desenvolvimento Android Nativo, Java Backend e linguagem C**
 
 - 👯 Procuro colaborar com [Aprenda Git](https://github.com/aprenda-git/pull-request)
 
