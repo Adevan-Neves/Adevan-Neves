@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou Adevan Neves Santos</h1>
 <h3 align="center">Estudante de Desenvolvimento Mobile Nativo para Android, aluno no projeto Callidus Software e Campus Expert na Digital Innovation One</h3>
 
-- 🔭 No momento estou trabalhando em Callidus Software
+- 🔭 No momento estou trabalhando no projeto Academia Callidus
 
-- 🌱 Atualmente estou aprendendo **Desenvolvimento Android Nativo, Java Backend e linguagem C**
+- 🌱 Atualmente estou aprendendo **Android nativo, Web e Machine Learning**
 
 - 👯 Procuro colaborar com [Aprenda Git](https://github.com/aprenda-git/pull-request)
 
-- 👨‍💻 Todos os meus projetos estão em [https://github.com/Adevan-Neves/](https://github.com/Adevan-Neves/)
+- 👨‍💻 Todos os meus projetos estão em [portifólio](https://github.com/adevan-neves-santos/)
 
 - 📝 Tenho um artigo sobre [Segurança da Informação ](https://ampllaeditora.com.br/books/2022/02/StemConference.pdf)
 
