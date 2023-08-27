@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Adevan Neves Santos</h1>
-<h3 align="center">Estudante de Desenvolvimento Mobile Nativo para Android, aluno no projeto Callidus Software e Campus Expert na Digital Innovation One</h3>
+<h3 align="center">Desenvolvedor Android, Estudante de Machine Learning e Campus Expert na Digital Innovation One</h3>
 
 - 🔭 No momento estou trabalhando no projeto ALTAIR tec
 
