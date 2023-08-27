@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou Adevan Neves Santos</h1>
 <h3 align="center">Estudante de Desenvolvimento Mobile Nativo para Android, aluno no projeto Callidus Software e Campus Expert na Digital Innovation One</h3>
 
-- 🔭 No momento estou trabalhando no projeto Academia Callidus
+- 🔭 No momento estou trabalhando no projeto ALTAIR tec
 
-- 🌱 Atualmente estou aprendendo **Android nativo e Machine Learning**
+- 🌱 Atualmente estou aprendendo **Android Embarcado, Machine Learning e Desenvolvimento de Jogos com Unity**
 
 - 👯 Procuro colaborar com [Aprenda Git](https://github.com/aprenda-git/pull-request)
 
